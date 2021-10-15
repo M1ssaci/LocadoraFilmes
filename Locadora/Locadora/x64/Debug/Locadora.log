@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\mathe\Documents\Teste\Locadora\Locadora\Main.cpp(145,27): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  Locadora.vcxproj -> C:\Users\mathe\Documents\Teste\Locadora\x64\Debug\Locadora.exe
